@@ -104,10 +104,11 @@ a {
   padding-bottom: 30px;
 }
 .service__contents {
-  width: 100%;
+  width: 95%;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  margin: 0 auto;
 }
 .service__content {
   width: 49%;
@@ -153,11 +154,13 @@ a {
   background: #000;
 }
 .news__ttl-btn {
+  width: 95%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-top: 100px;
   padding-bottom: 30px;
+  margin: 0 auto;
 }
 .news__ttl {
   color: #fff;
@@ -174,13 +177,14 @@ a {
 .news__txt-box {
   display: block;
   cursor: pointer;
-  width: 100%;
+  width: 95%;
   height: 70px;
   background: #fff;
   color: black;
   font-size: 16px;
   display: flex;
   align-items: center;
+  margin: 0 auto;
 }
 .news__btn:hover{
   cursor: pointer;
@@ -223,9 +227,10 @@ a {
   padding: 80px 0 30px;
 }
 .blog__contents {
-  width: 100%;
+  width: 95%;
   display: flex;
   justify-content: space-between;
+  margin: 0 auto;
 }
 .blog__content {
   width: 32%;
